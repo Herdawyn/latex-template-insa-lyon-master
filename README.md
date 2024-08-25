@@ -1,4 +1,4 @@
-# LaTeX templates et classe pour l'INSA de Toulouse
+# LaTeX templates et classe pour l'INSA de Lyon (remerciement au club info INSA Toulous)
 
 ![](banner.png)
 
